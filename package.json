@@ -1,0 +1,22 @@
+{
+  "engines": {
+    "node": "22.18.0"
+  },
+  "name": "mongoose_with_express",
+  "version": "1.0.0",
+  "description": "In this we are trying to build a basic chating application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alden Pimenta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.18.0",
+    "multer": "^2.0.2"
+  }
+}
